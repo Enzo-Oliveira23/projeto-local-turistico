@@ -52,11 +52,16 @@ h2{
   font-size: 16px;
   font-style: italic;
   text-align: center;
+  padding-top: 24px;
 }
 
 p{
   font-size: 16px;
   text-align: left;
+}
+
+#lista{
+  font-weight: bold;
 }
 
 li{
